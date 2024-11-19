@@ -1,0 +1,120 @@
+nav{
+ 
+
+padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding:20px;
+    color: ;
+    font-size: 18px;
+    font-family: "Saira Condensed"
+sans-serif;
+}
+.rightbar{
+    display: inline-block;
+    
+    width: 40%;
+    text-align: right;
+    
+}
+.leftbar{
+    display: inline-block;
+    
+    width: 28%;
+    text-align: left;
+    
+}
+.logo{
+    background-color: RGB(33, 37, 41);
+   width: 9%;
+    display: inline-block;
+    padding: 25px;
+    margin: 5px;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+.num{
+    text-align: right;
+    width: 9%%;
+    display: inline-block;
+    font-size: 24px;
+    font-family:  Mulish sans-serif;
+   color: rgb(69, 134, 213);
+   border: 2px solid #FAD110;
+     text-align: center;
+     
+}
+img{
+    width: 100%;
+}
+
+
+
+.img2{
+    position: relative;
+   float:left;
+   
+    margin: auto;
+    width: 6% ;
+   background-color: brown;
+    padding: 10;
+    width: 6;
+    width: auto;
+    
+  
+    border: solid ;
+   margin-bottom: 50px;
+
+   
+    
+ }
+p{
+    
+    background-color: aliceblue;
+    border: solid;
+  
+   box-sizing:content-box;
+    
+}
+ .i1{
+    width: 30%;
+    /* margin-left: 100px; */
+   margin-top: auto;
+ }
+
+.total{
+border: solid red ;
+height: 150px;
+width: 250px ;
+padding: 25px;
+display: inline-block;
+margin-left: 35px;
+margin-top: 0;
+text-align: center;
+
+}
+.i2{
+    width: 30%;
+    margin-left: 60px;
+    
+
+}
+.total2{
+    border: solid red ;
+    height: 150px;
+    width: 250px ;
+    padding: 30px;
+    margin-left: 25px;
+    display: inline-block;
+    }
+    .image10{
+        margin-top: 15px;
+        margin-left: 10px;
+    }
+    .image20{
+        margin-top: 5px;
+    }
